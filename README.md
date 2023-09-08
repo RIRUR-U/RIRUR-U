@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rirur-u&label=Profile%20views&color=0e75b6&style=flat" alt="rirur-u" /> </p>
 
-- 🔭 I’m currently work **as a Jr. Software Developer**
+- 🔭 I’m currently work **as a Jr. Software Engineer**
 
 - 👯 I’m looking to collaborate **on Full Stack web development.**
 
