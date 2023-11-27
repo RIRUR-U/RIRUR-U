@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Farjana Ema Nishy</h1>
-<h3 align="center">A passionate Problem Solver | Machine Learning Enthusiast | Software Developer from Bangladesh</h3>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;Farjana Ema Nishy&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!!!!!!!!;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<br>
+<h3 align="center">A passionate Problem Solver <br> Software Engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rirur-u&label=Profile%20views&color=0e75b6&style=flat" alt="rirur-u" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rirur-u&label=Profile%20views&color=0e75b6&style=flat&color=grey" alt="rirur-u" /> </p>
 
-- 🔭 I’m currently work **as a Jr. Software Engineer**
+- 🔭 I’m currently work **as a Software Engineer**
 
-- 👯 I’m looking to collaborate **on Full Stack web development.**
+- 👯 I’m looking to collaborate **on Problem Solving Area.**
 
 - 📫 How to reach me **farjananishy@gmail.com**
 
